@@ -1,4 +1,4 @@
-# Annelies'Hangman Game
+# Annelies' Hangman Game
 
 ## Table of Content
 1. [Description](#description)
