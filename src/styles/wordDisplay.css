@@ -1,0 +1,9 @@
+/* styling for displaying the word */
+
+.display-word {
+    color: #008CBA;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
