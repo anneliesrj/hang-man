@@ -21,6 +21,7 @@ This is a basic Hangman Game built using React. The game challanges players to g
 2. Open your browser and visit http://localhost:3000 to play the game
 
 ### How to play
+Visit: https://stark-journey-89746-bc7fe4f0eddf.herokuapp.com/ to access the game
 1. The game selects a random word from a dictionary.
 2. Guess letters one by one to reveal the word
 3. Incorrect guesses result in drawing the hangman
